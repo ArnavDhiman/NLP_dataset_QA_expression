@@ -18,7 +18,7 @@ To run the code follow the below steps:
 
     [https://www.dropbox.com/sh/6o971duivp7zjqg/AABQ7rN5wjaNZcLMnC-RvCnWa?dl=0](https://www.dropbox.com/sh/6o971duivp7zjqg/AABQ7rN5wjaNZcLMnC-RvCnWa?dl=0)
 
-This contains the JSON file (dataset\_v7w\_pointing.json) and the images.
+    This contains the JSON file (dataset\_v7w\_pointing.json) and the images.
 
 2. Run the code on the google collab (link below):
 
